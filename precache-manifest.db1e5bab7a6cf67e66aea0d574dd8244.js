@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bca8b4579a787325c811f7c640dec763",
+    "revision": "602b3fab7fd146020a065d9be0587c84",
     "url": "/popcorn-app/index.html"
   },
   {
-    "revision": "ba9ae374c69c936c69c4",
+    "revision": "6959068454b55f17ed22",
     "url": "/popcorn-app/static/css/main.8c619926.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/popcorn-app/static/js/2.cf8f9adf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba9ae374c69c936c69c4",
-    "url": "/popcorn-app/static/js/main.3d7d7a10.chunk.js"
+    "revision": "6959068454b55f17ed22",
+    "url": "/popcorn-app/static/js/main.d3ee2f95.chunk.js"
   },
   {
     "revision": "1874d93bf75aa6e1bf7c",
