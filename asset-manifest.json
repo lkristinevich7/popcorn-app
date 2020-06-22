@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/popcorn-app/static/css/main.8c619926.chunk.css",
+    "main.js": "/popcorn-app/static/js/main.644bc4b1.chunk.js",
+    "main.js.map": "/popcorn-app/static/js/main.644bc4b1.chunk.js.map",
+    "runtime-main.js": "/popcorn-app/static/js/runtime-main.cd4210d6.js",
+    "runtime-main.js.map": "/popcorn-app/static/js/runtime-main.cd4210d6.js.map",
+    "static/js/2.cf8f9adf.chunk.js": "/popcorn-app/static/js/2.cf8f9adf.chunk.js",
+    "static/js/2.cf8f9adf.chunk.js.map": "/popcorn-app/static/js/2.cf8f9adf.chunk.js.map",
+    "index.html": "/popcorn-app/index.html",
+    "precache-manifest.f03533da242cdea8ec6c6e15f480dc06.js": "/popcorn-app/precache-manifest.f03533da242cdea8ec6c6e15f480dc06.js",
+    "service-worker.js": "/popcorn-app/service-worker.js",
+    "static/css/main.8c619926.chunk.css.map": "/popcorn-app/static/css/main.8c619926.chunk.css.map",
+    "static/js/2.cf8f9adf.chunk.js.LICENSE.txt": "/popcorn-app/static/js/2.cf8f9adf.chunk.js.LICENSE.txt",
+    "static/media/Tastes.scss": "/popcorn-app/static/media/background-tastes.9e36afd7.jpg",
+    "static/media/Home.scss": "/popcorn-app/static/media/background.b7603e17.jpeg",
+    "static/media/cheddar.jpg": "/popcorn-app/static/media/cheddar.f879eb4b.jpg",
+    "static/media/Thankyou.scss": "/popcorn-app/static/media/contact-background.6355cf1f.png",
+    "static/media/hajjp_logo.png": "/popcorn-app/static/media/hajjp_logo.0629fb1f.png",
+    "static/media/nacho-cheese.jpg": "/popcorn-app/static/media/nacho-cheese.0dbf0422.jpg",
+    "static/media/popcorn-animation.mp4": "/popcorn-app/static/media/popcorn-animation.81952a6b.mp4",
+    "static/media/strawberry.jpg": "/popcorn-app/static/media/strawberry.70c55d6a.jpg",
+    "static/media/wings.jpg": "/popcorn-app/static/media/wings.598dc2ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd4210d6.js",
+    "static/js/2.cf8f9adf.chunk.js",
+    "static/css/main.8c619926.chunk.css",
+    "static/js/main.644bc4b1.chunk.js"
+  ]
+}
